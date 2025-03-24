@@ -1,0 +1,16 @@
+- Text editor relies totally on keyboard
+- To edit a file: i
+- Once done editing a file, hit esc 
+- Useful shortcuts:
+x	  Cut character
+dw	Cut word
+dd	Cut full line
+yw	Copy word
+yy	Copy full line
+p	  Paste
+- To save file, : (this puts us in command mode) 
+:1	Go to line number 1.
+:w	Write the file, save
+:q	Quit
+:q!	Quit without saving
+:wq	Write and quit
