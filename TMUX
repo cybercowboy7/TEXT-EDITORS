@@ -1,0 +1,14 @@
+- Can also use Screen
+- Terminal multiplexer
+- Install using the following
+  sudo apt install tmux -y
+- Commands:
+  To input tmux commands: [CTRL + B]
+  To open a new window in tmux: c
+  To switch to a window: #
+  To split a window vertically: [SHIFT + %]
+  To split a window horizontal: [SHIFT + "]
+  TO switch panes utilize the arrows
+- Useful Guide and cheatsheet 
+  - https://tmuxcheatsheet.com/
+  - https://tmuxcheatsheet.com/
